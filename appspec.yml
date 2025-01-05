@@ -6,4 +6,4 @@ Resources:
         TaskDefinition: "nodejs-app-task"
         LoadBalancerInfo:
           ContainerName: "nodejs-container"
-          ContainerPort: 80
+          ContainerPort: 3000
